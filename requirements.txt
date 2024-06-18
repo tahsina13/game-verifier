@@ -1,4 +1,6 @@
-gallery-dl
 fastai
+gallery-dl
+ipywidgets
+python-dotenv
 requests
 tqdm
