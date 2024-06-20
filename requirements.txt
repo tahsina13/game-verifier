@@ -3,4 +3,5 @@ gallery-dl
 ipywidgets
 python-dotenv
 requests
+timm
 tqdm
